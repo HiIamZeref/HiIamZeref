@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning Python, Web Development and a little bit of Pentesting.
 - 📫 How to reach me: Please use my Linkedin: https://www.linkedin.com/in/felipe-coimbra13/ 
 
+#Technologies
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=a9fef7&color=d93a7c)
+
 <!---
 HiIamZeref/HiIamZeref is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
