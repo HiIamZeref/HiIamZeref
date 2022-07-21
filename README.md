@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HiIamZeref or just Felipe!
 - I'm a brazilian computer science student and created a GitHub account to share my little projects, hope you enjoy!
 - 👀 I’m mainly interested in Data Science and automation.
-- 🌱 I’m currently learning Python and hopefully will start studying JavaScript.
+- 🌱 I’m currently learning Python, Web Development and a little bit of Pentesting.
 - 📫 How to reach me: Please use my Linkedin: https://www.linkedin.com/in/felipe-coimbra13/ 
 
 <!---
