@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python, Web Development and a little bit of Pentesting.
 - 📫 How to reach me: Please use my Linkedin: https://www.linkedin.com/in/felipe-coimbra13/ 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiiamzeref&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiiamzeref&show_icons=true&theme=merko)
 
 <!---
 HiIamZeref/HiIamZeref is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
