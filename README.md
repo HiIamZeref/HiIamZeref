@@ -8,10 +8,10 @@ Brazilian Computer Science student passionate about building intelligent systems
 
 ## 🚀 What I Do
 
-**🔬 AI & Backend Tech Lead** @ [Vortex](https://www.linkedin.com/in/felipe-coimbra13/) - Innovation & Formation Lab  
+**🔬 AI & Backend Tech Lead** @ [Vortex](https://vortex.unifor.br) - Innovation & Formation Lab  
 Leading technical initiatives across Fullstack, Mobile, AI, IoT, Game Dev, and VR/AR projects. Managing sprints, establishing best practices, and driving technological innovation.
 
-**⚙️ Backend Developer** @ Startup  
+**⚙️ Backend Developer** @ [GSS](https://www.gss.eco)  
 Building high-performance systems with Go, designing scalable database architectures, and ensuring production reliability.
 
 **🤖 Agent Orchestration Researcher**  
@@ -72,8 +72,9 @@ Exploring multi-agent systems, GraphRAG architectures, and LLM orchestration pat
 ![UV](https://img.shields.io/badge/UV-DE5FE9?style=for-the-badge&logoColor=white)
 
 ### AI Development Tools
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 ---
 
